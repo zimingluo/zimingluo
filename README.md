@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @zimingluo
-- 👀 I’m currently a master student in University of Michigan 
-- 🌱 I’m currently learning machine learning and computer vision
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I got my master degree in Electrical & Computer Engineering at University of Michigan 
+- 🌱 My research focuses on developing large language model-based systems that enable explainable and faithful reasoning across multiple modalities
+- 💞️ I’m actively looking for reseacrh collaborator and Ph.D advisor
+- 📫 How to reach me: luozm@umich.edu
 
 <!---
 zimingluo/zimingluo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
